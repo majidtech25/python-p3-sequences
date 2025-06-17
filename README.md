@@ -476,7 +476,7 @@ for char in my_string:
 # => l
 # => l
 # => o
-# => 
+# =>
 # => w
 # => o
 # => r
@@ -547,7 +547,6 @@ When all of your tests are passing, submit your work using `git`.
 - [Range Docs](https://docs.python.org/3/library/stdtypes.html#ranges)
 - [String Methods][string methods]
 
-[common sequence operations]:
-  https://docs.python.org/3/library/stdtypes.html#common-sequence-operations
+[common sequence operations]: https://docs.python.org/3/library/stdtypes.html#common-sequence-operations
 [string methods]: https://www.w3schools.com/python/python_ref_string.asp
 [fibonacci sequence]: https://www.mathsisfun.com/numbers/fibonacci-sequence.html
